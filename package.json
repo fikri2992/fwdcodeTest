@@ -1,0 +1,16 @@
+{
+  "name": "fwdtictactoe",
+  "version": "1.0.0",
+  "description": "this for my fwd test ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fikri nugraha",
+  "license": "ISC",
+  "devDependencies": {
+    "cssnano": "^4.0.5",
+    "eslint": "^5.3.0",
+    "eslint-config-google": "^0.9.1"
+  }
+}
